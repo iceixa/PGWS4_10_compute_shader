@@ -7,7 +7,7 @@
 ![結果画像2](result2.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](Videotogif.png)
+![結果画像](Videotogif.gif)
 
 # 自分なりに変更した点
 -時間での変化量
